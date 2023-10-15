@@ -1,0 +1,4 @@
+{
+  "ACTION_REJECTED": "Whoopsie, Transaction Rejected in Wallet! Try Again and Click on confirm when prompted in your wallet.",
+  "-32002": "Request already pending for chain switch. Please wait."
+}
